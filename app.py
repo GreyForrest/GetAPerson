@@ -9,7 +9,7 @@ categoriesDictionary = {
 otherNames = {}
 
 category_name_text_preview = "enter category name"
-names_text_preview = "enter name : discordname/league name\npersons separated with a comma."
+names_text_preview = "enter name : nickname/social media name/username\npersons separated with a comma."
 
 root = tk.Tk()
 root.title("Get a person")
